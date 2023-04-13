@@ -1,0 +1,11 @@
+--2023-04-13 10:31:38--  https://api.sub-100.one/link/4fd6VIFUUl1k5g8Y?clash=4
+正在解析主机 api.sub-100.one (api.sub-100.one)... 14.204.185.46
+正在连接 api.sub-100.one (api.sub-100.one)|14.204.185.46|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度： 477845 (467K) [application/octet-stream]
+正在保存至: “config.yaml”
+
+config.yaml           0%[                    ]       0  --.-KB/s               config.yaml          27%[====>               ] 127.62K   615KB/s               config.yaml         100%[===================>] 466.65K  1.42MB/s    用时 0.3s  
+
+2023-04-13 10:31:45 (1.42 MB/s) - 已保存 “config.yaml” [477845/477845])
+
